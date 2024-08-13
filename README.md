@@ -27,4 +27,16 @@
  - Group chat and group to group chat
 
 
+## **Status**
+#### Warning Firebase Cloud Storage account has been deleted. Application Will crash without access to database
+- Application is able to be downloaded unto Android devices.
+- Application is feature complete but required further bug fixes and presentation polish.
 
+## **Individual Contribution**
+#### Emanuel Ruiz
+- Initial Profile Personalization
+- Edit User Profile
+- Notification
+- Block Group
+- Implement GPS location
+- Backend Server Functions. 

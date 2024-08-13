@@ -35,7 +35,7 @@
 ## **Individual Contribution**
 #### Emanuel Ruiz
 - Initial Profile Personalization
-- Edit User Profile
+- [Edit User Profile](https://github.com/emanuel-ruiz/Batch/blob/main/app/src/main/java/com/example/batchtest/UserProfileTab/EditProfileFragment.kt)
 - Notification
 - Block Group
 - Implement GPS location

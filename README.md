@@ -16,4 +16,9 @@
  
  way for individuals to meet in a group setting, with the     goal for groups to meet platonically through common interests. 
 
+## **Features**
+
+ - Allows the creation of a user profile.
+ - User can create or join a group, depending on interests.
+ - 
 

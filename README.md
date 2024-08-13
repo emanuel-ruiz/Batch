@@ -19,6 +19,12 @@
 ## **Features**
 
  - Allows the creation of a user profile.
+ - Profile personalization.
  - User can create or join a group, depending on interests.
- - 
+ - Filter group recommendations according to distance, interests, and group gender composition.
+ - Filters out groups according to deal breaker list.
+ - Sends notifications according to user preferences.
+ - Group chat and group to group chat
+
+
 

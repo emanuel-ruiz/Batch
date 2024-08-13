@@ -34,9 +34,10 @@
 
 ## **Individual Contribution**
 #### Emanuel Ruiz
-- Initial Profile Personalization
+- [Initial Profile Personalization](https://github.com/emanuel-ruiz/Batch/blob/main/app/src/main/java/com/example/batchtest/InitialProfilePersonalizationFragment.kt)
 - [Edit User Profile](https://github.com/emanuel-ruiz/Batch/blob/main/app/src/main/java/com/example/batchtest/UserProfileTab/EditProfileFragment.kt)
-- Notification
-- Block Group
-- Implement GPS location
+- [Edit and Set Preferences](https://github.com/emanuel-ruiz/Batch/blob/main/app/src/main/java/com/example/batchtest/DiscoveryPreferences/PreferencesFragment.kt)
+- [Notification](https://github.com/emanuel-ruiz/Batch/blob/main/app/src/main/java/com/example/batchtest/FirebaseMessaging/MyFirebaseMessagingService.kt)
+- [Report Group](https://github.com/emanuel-ruiz/Batch/blob/main/app/src/main/java/com/example/batchtest/ReportDialogFragment.kt)
+
 - Backend Server Functions. 
